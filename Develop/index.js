@@ -60,7 +60,7 @@ function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
 function init() {
-    inquirer.createPromptModule(questions)
+    inquirer.prompt(questions)
             .then((inquirerData) => {
                 console.log();
                 writeToFile()
