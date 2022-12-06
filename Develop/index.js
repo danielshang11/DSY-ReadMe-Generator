@@ -1,13 +1,12 @@
 // TODO: Include packages needed for this application
 const fs = require('fs');
 const inquirer = require('inquirer');
+const generateMarkdown = require('./utils/generateMarkdown');
 
 // TODO: Create an array of questions for user input
 // 1.title of my project and 2.sections entitled Description, 
 // 3.Table of Contents, 4.Installation, 5.Usage,6. License,
 //  7.Contributing, 8.Tests, and 9.Questions
-
-
 
 const questions = [
     {
@@ -50,11 +49,23 @@ const questions = [
     },
 ];
 
+
+
+
+
+
+
 // TODO: Create a function to write README file
 function writeToFile(fileName, data) {}
 
 // TODO: Create a function to initialize app
-function init() {}
+function init() {
+    inquirer.createPromptModule(questions)
+            .then((inquirerData) => {
+                console.log();
+                writeToFile()
+            })
+}
 
 // Function call to initialize app
 init();
