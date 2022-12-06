@@ -23,7 +23,7 @@ const questions = [
         type:'input',
         name: 'installation',
         message: 'How to install your application?'
-        default: 'npm i',
+        // default: 'npm i',
     },
     {
         type: 'input',
