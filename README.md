@@ -34,6 +34,8 @@ By answering the prompt questions user will get the README file with the name Di
 
 ## Usage
 
+![alt text](./Develop/assets/Guide.gif)
+
 ```
 What user want to show others on README file will be displayed by answering the prompt question.
 ```

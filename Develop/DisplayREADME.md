@@ -1,9 +1,9 @@
-# Demo for Generator
+# Test Demo for generator
   ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
  
   ## Description
   
-  it's a Demo 
+  yes i can but not now
   
   ## Table of Contents 
   - [Installation](#installation)
@@ -14,17 +14,17 @@
  
   ## Installation 
   ```
-  npm i
+  secrect
   ```
   ## Usage 
-  N/A
+  nothing
   ## Credit 
-  Daniel 
+  Daniel
   ## License 
   MIT
   ## Tests 
   ```
-  N/A
+  terminal
   ```
   ## Questions
   Feel free to reach out to me if you find any bugs or need help using my app!
