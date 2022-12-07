@@ -6,12 +6,12 @@ The Main purpose to build this generator is to make user esier to make the READM
 This application is built using node.js framework knowledge and will generate the READE ME file by asking user each sections through prompts.
 Check the question and what the user will get on reademe file display as below:
 When User enter 
-1.Project Title : title of readme title will be displayed.
-2.Description, installation instructions, usage information, contribution guidelines, and test instructions: will be add into sections of the Readme entitledDescription, Installation, Usage, Contributing, and Tests.
-3.choose the license: will be add on the license.
-4.GitHub username: Questions title with the link to user's github prrofile.
-5.email: added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
-6.click on links (Table of the content): will be taken to the corresponging section of the README.
+1. Project Title : title of readme title will be displayed.
+2. Description, installation instructions, usage information, contribution guidelines, and test instructions: will be add into sections of the Readme entitledDescription, Installation, Usage, Contributing, and Tests.
+3. choose the license: will be add on the license.
+4. GitHub username: Questions title with the link to user's github prrofile.
+5. email: added to the section of the README entitled Questions, with instructions on how to reach me with additional questions
+6. click on links (Table of the content): will be taken to the corresponging section of the README.
 
 ## Technologies Used
 
