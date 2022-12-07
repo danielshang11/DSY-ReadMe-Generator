@@ -1,9 +1,9 @@
-# Project 1
-  ![License: Apache 2.0](https://img.shields.io/badge/License-Apache 2.0-yellow.svg)
+# Test demo
+  ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
  
   ## Description
   
-  yes im cool
+  yes so this is the description
   
   ## Table of Contents 
   - [Installation](#installation)
@@ -17,14 +17,14 @@
   N/A
   ```
   ## Usage 
-  idk
+  nothing to know
   ## Credit 
   Daniel
   ## License 
-  Apache 2.0
+  MIT
   ## Tests 
   ```
-  IDK
+  No need
   ```
   ## Questions
   Feel free to reach out to me if you find any bugs or need help using my app!
